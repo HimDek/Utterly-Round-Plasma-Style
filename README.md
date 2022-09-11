@@ -36,7 +36,11 @@ A round cornered theme for KDE Plasma 5 desktop environment that follows all col
 
 <h1 align="center">Get it from</h1>
 
-<p align="center">Coming soon</p>
+<p align="center">
+  <a href="https://www.pling.com/p/1901768"><img height="50px" src="https://img.shields.io/badge/Pling%20Store-informational?style=for-the-badge&color=orange" /></a>
+  <a href="https://store.kde.org/p/1901768"><img height="50px" src="https://img.shields.io/badge/KDE%20Store-informational?style=for-the-badge&logo=KDE" /></a>
+  <a href="https://www.opendesktop.org/p/1901768"><img height="50px" src="https://img.shields.io/badge/openDesktop-informational?style=for-the-badge&color=blueviolet" /></a>
+</p>
 
 <h1 id="gallery" align="center">Gallery</h1>
 
