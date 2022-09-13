@@ -1,4 +1,8 @@
-Utterly-Round: widgets/* dialogs/* icons/* opaque/* translucent/* weather/* LICENSE* metadata.*
-	tar -cJf Utterly-Round.tar.xz widgets/* dialogs/* icons/* opaque/* translucent/* weather/* LICENSE* metadata.*
+aurorae: aurorae/*
+	tar -cJf Utterly-Round-Aurorae.tar.xz aurorae/* --transform="s/aurorae\///"
+
+desktoptheme: desktoptheme/*
+	tar -cJf Utterly-Round-Desktop.tar.xz desktoptheme/* --transform="s/desktoptheme\///"
+
 clean:
 	rm *.tar.xz
