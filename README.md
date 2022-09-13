@@ -1,6 +1,6 @@
 <p align="center">
  <a href="https://himdek.com/Utterly-Round-Plasma-Style/"><h1 align="center">Utterly Round Plasma Theme</h1></a>
- <p align="center">A rounded theme for Plasma 5 that follows all color scheme</p>
+ <p align="center">A rounded Desktop theme and Window borders for Plasma 5 that follows any color scheme</p>
 </p>
 
 <p class="buttons" align="center">
@@ -20,7 +20,7 @@
   <a href="#prerequisites"><img src="https://img.shields.io/badge/Install-green?style=for-the-badge" /></a>
 </p>
 
-A round cornered theme for KDE Plasma 5 desktop environment that follows all color scheme with transparency and blur
+A round cornered Desktop theme and Window borders for KDE Plasma 5 desktop environment that follows all color scheme with transparency and blur
 
 ## Key features:
 
@@ -36,16 +36,43 @@ A round cornered theme for KDE Plasma 5 desktop environment that follows all col
 
 <h1 align="center">Get it from</h1>
 
+<h3 align="center">Plasma Theme</h3>
+
 <p align="center">
   <a href="https://www.pling.com/p/1901768"><img height="50px" src="https://img.shields.io/badge/Pling%20Store-informational?style=for-the-badge&color=orange" /></a>
   <a href="https://store.kde.org/p/1901768"><img height="50px" src="https://img.shields.io/badge/KDE%20Store-informational?style=for-the-badge&logo=KDE" /></a>
   <a href="https://www.opendesktop.org/p/1901768"><img height="50px" src="https://img.shields.io/badge/openDesktop-informational?style=for-the-badge&color=blueviolet" /></a>
 </p>
 
+<h3 align="center">Window Borders</h3>
+
+<p align="center">
+  <a href="https://www.pling.com/p/1903823"><img height="50px" src="https://img.shields.io/badge/Pling%20Store-informational?style=for-the-badge&color=orange" /></a>
+  <a href="https://store.kde.org/p/1903823"><img height="50px" src="https://img.shields.io/badge/KDE%20Store-informational?style=for-the-badge&logo=KDE" /></a>
+  <a href="https://www.opendesktop.org/p/1903823"><img height="50px" src="https://img.shields.io/badge/openDesktop-informational?style=for-the-badge&color=blueviolet" /></a>
+</p>
+
 <h1 id="gallery" align="center">Gallery</h1>
 
 <p align="center">
-<img height="400px" src="assets/20220910_163156_Dark.png" align="center"/>
+<img height="400px" src="assets/20220913_163333_Dark.png" align="center"/>
 <br /><br />
-<img height="400px" src="assets/20220910_163212_Light.png" align="center"/>
+<img height="400px" src="assets/20220913_163354_Light.png" align="center"/>
+<br /><br />
+<img height="400px" src="assets/20220913_163402_Dark_Thumbnail.png" align="center"/>
+<br /><br />
+<img height="400px" src="assets/20220913_163409_Light_Thumbnail.png" align="center"/>
+<br /><br />
+<img height="400px" src="assets/20220913_163416_Dark_Notification.png" align="center"/>
+</p>
+
+<p align="center">
+<img height="200px" src="assets/20220913_162229_Nord_Close.png" align="center"/>
+<img height="200px" src="assets/20220913_162243_Mac_Max.png" align="center"/>
+<br /><br />
+<img height="200px" src="assets/20220913_162221_Right_Pin.png" align="center"/>
+<img height="200px" src="assets/20220913_162240_Right.png" align="center"/>
+<br /><br />
+<img height="200px" src="assets/20220913_162246_Sweet_Min.png" align="center"/>
+<img height="200px" src="assets/20220913_162252_Inactive.png" align="center"/>
 </p>
