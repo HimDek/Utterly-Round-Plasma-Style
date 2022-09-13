@@ -352,6 +352,60 @@
          offset="1"
          style="stop-color:#dadad3;stop-opacity:1;" />
     </linearGradient>
+    <style
+       id="current-color-scheme">      .ColorScheme-Text {
+        color:#31363b;
+        stop-color:#31363b;
+      }
+      .ColorScheme-Background {
+        color:#eff0f1;
+        stop-color:#eff0f1;
+      }
+      .ColorScheme-Highlight {
+        color:#3daee9;
+        stop-color:#3daee9;
+      }
+      .ColorScheme-ViewText {
+        color:#31363b;
+        stop-color:#31363b;
+      }
+      .ColorScheme-ViewBackground {
+        color:#fcfcfc;
+        stop-color:#fcfcfc;
+      }
+      .ColorScheme-ViewHover {
+        color:#93cee9;
+        stop-color:#93cee9;
+      }
+      .ColorScheme-ViewFocus{
+        color:#3daee9;
+        stop-color:#3daee9;
+      }
+      .ColorScheme-ButtonText {
+        color:#31363b;
+        stop-color:#31363b;
+      }
+      .ColorScheme-ButtonBackground {
+        color:#eff0f1;
+        stop-color:#eff0f1;
+      }
+      .ColorScheme-ButtonHover {
+        color:#93cee9;
+        stop-color:#93cee9;
+      }
+      .ColorScheme-ButtonFocus{
+        color:#3daee9;
+        stop-color:#3daee9;
+      }
+      .ColorScheme-PositiveText {
+	color:#27ae60;
+      }
+      .ColorScheme-NeutralText {
+	color:#f67400;
+      }
+      .ColorScheme-NegativeText {
+	color:#ff2a2a;
+      }</style>
   </defs>
   <sodipodi:namedview
      id="base"
@@ -361,14 +415,14 @@
      inkscape:pageopacity="1"
      inkscape:pageshadow="2"
      inkscape:zoom="3.178612"
-     inkscape:cx="49.864532"
-     inkscape:cy="48.606121"
+     inkscape:cx="43.100573"
+     inkscape:cy="50.179135"
      inkscape:document-units="px"
-     inkscape:current-layer="layer1"
+     inkscape:current-layer="hover-center"
      showgrid="false"
      inkscape:snap-bbox="true"
-     inkscape:window-width="1366"
-     inkscape:window-height="742"
+     inkscape:window-width="752"
+     inkscape:window-height="732"
      inkscape:window-x="0"
      inkscape:window-y="0"
      inkscape:window-maximized="1"
@@ -440,8 +494,7 @@
          id="path18-6"
          sodipodi:nodetypes="csscc"
          class="ColorScheme-ButtonBackground"
-         fill="currentColor"
-         style="color:#eff0f1;stop-color:#eff0f1" />
+         fill="currentColor" />
     </g>
     <g
        id="pressed-center"
@@ -457,8 +510,7 @@
          id="path18-6-3"
          sodipodi:nodetypes="csscc"
          class="ColorScheme-Background"
-         fill="currentColor"
-         style="color:#eff0f1;stop-color:#eff0f1" />
+         fill="currentColor" />
     </g>
     <g
        id="inactive-center"
@@ -468,8 +520,7 @@
          d="m 438.92025,-4.1046029 c 251.80615,0 455.93569,204.1260029 455.93569,455.9355829 0,251.80221 -204.12954,455.93172 -455.93569,455.93172 -251.80541,0 -455.935319,-204.12951 -455.935319,-455.93172 0,-251.80958 204.129909,-455.9355829 455.935319,-455.9355829"
          inkscape:connector-curvature="0"
          class="ColorScheme-Background"
-         fill="currentColor"
-         style="color:#eff0f1;stop-color:#eff0f1" />
+         fill="currentColor" />
     </g>
     <g
        id="deactivated-center"
@@ -479,8 +530,7 @@
          d="m 408.52137,2.2704364 c 251.8062,0 455.9357,204.1259836 455.9357,455.9355936 0,251.8022 -204.1295,455.93172 -455.9357,455.93172 -251.8054,0 -455.935299,-204.12952 -455.935299,-455.93172 0,-251.80961 204.129899,-455.9355936 455.935299,-455.9355936"
          inkscape:connector-curvature="0"
          class="ColorScheme-Background"
-         fill="currentColor"
-         style="color:#eff0f1;stop-color:#eff0f1" />
+         fill="currentColor" />
     </g>
   </g>
 </svg>
