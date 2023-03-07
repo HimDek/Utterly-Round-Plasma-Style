@@ -1,7 +1,7 @@
 [General]
-ActiveTextColor=125,125,125
+ActiveTextColor=235,235,235
 Animation=0
-InactiveTextColor=125,125,125
+InactiveTextColor=215,215,215
 LeftButtons=XIA
 RightButtons=
 Shadow=false
