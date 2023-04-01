@@ -1,0 +1,4 @@
+hlname=Utterly
+transparency=Solid
+shape=Round
+finalName=$hlname-$name-$transparency

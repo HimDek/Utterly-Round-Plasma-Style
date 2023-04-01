@@ -1,0 +1,14 @@
+#colors
+background=#2e3440
+foreground=#eceff4
+accent=#5e81ac
+negative=#bf616a
+button=#4c566a
+inactive=#d8dee9
+link=#81a1c1
+visitedlink=#8fbcbb
+
+#details
+name=general-name-of-color-scheme
+author="Name of author to put in kvconfig"
+comment="This comment will be put in kvconfig"
