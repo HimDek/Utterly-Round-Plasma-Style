@@ -6,7 +6,7 @@
    height="29.866667"
    id="svg4428"
    version="1.1"
-   inkscape:version="1.2.1 (9c6d41e410, 2022-07-14, custom)"
+   inkscape:version="1.2.2 (b0a8486541, 2022-12-01)"
    sodipodi:docname="restore.svg"
    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
    xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
@@ -400,14 +400,14 @@
      inkscape:pageopacity="1"
      inkscape:pageshadow="2"
      inkscape:zoom="7.6792118"
-     inkscape:cx="24.481679"
-     inkscape:cy="17.775262"
+     inkscape:cx="52.739788"
+     inkscape:cy="17.905483"
      inkscape:document-units="px"
-     inkscape:current-layer="pressed-center"
+     inkscape:current-layer="deactivated-center"
      showgrid="false"
      inkscape:snap-bbox="true"
      inkscape:window-width="1366"
-     inkscape:window-height="742"
+     inkscape:window-height="678"
      inkscape:window-x="0"
      inkscape:window-y="0"
      inkscape:window-maximized="1"
@@ -515,7 +515,7 @@
          d="m -419.91682,788.74868 c 251.80635,0 455.935898,204.12602 455.935898,455.93572 0,251.8021 -204.129548,455.9316 -455.935898,455.9316 -251.80541,0 -455.93552,-204.1295 -455.93552,-455.9316 0,-251.8097 204.13011,-455.93572 455.93552,-455.93572"
          inkscape:connector-curvature="0"
          fill="currentColor"
-         class="ColorScheme-Background" />
+         class="ColorScheme-ButtonBackground" />
     </g>
     <g
        id="deactivated-center"
@@ -525,7 +525,7 @@
          d="m 325.18702,181.83079 c 251.80635,0 455.9359,204.12602 455.9359,455.93572 0,251.80205 -204.12955,455.93159 -455.9359,455.93159 -251.805405,0 -455.93552,-204.12954 -455.93552,-455.93159 0,-251.8097 204.130115,-455.93572 455.93552,-455.93572"
          inkscape:connector-curvature="0"
          fill="currentColor"
-         class="ColorScheme-Background" />
+         class="ColorScheme-ButtonBackground" />
     </g>
   </g>
 </svg>

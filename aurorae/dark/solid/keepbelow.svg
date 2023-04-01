@@ -6,7 +6,7 @@
    height="29.866667"
    id="svg4428"
    version="1.1"
-   inkscape:version="1.2.1 (9c6d41e410, 2022-07-14, custom)"
+   inkscape:version="1.2.2 (b0a8486541, 2022-12-01)"
    sodipodi:docname="keepbelow.svg"
    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
    xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
@@ -415,14 +415,14 @@
      inkscape:pageopacity="1"
      inkscape:pageshadow="2"
      inkscape:zoom="3.178612"
-     inkscape:cx="43.100573"
-     inkscape:cy="50.179135"
+     inkscape:cx="-2.5168218"
+     inkscape:cy="50.493738"
      inkscape:document-units="px"
-     inkscape:current-layer="hover-center"
+     inkscape:current-layer="inactive-center"
      showgrid="false"
      inkscape:snap-bbox="true"
-     inkscape:window-width="752"
-     inkscape:window-height="732"
+     inkscape:window-width="1366"
+     inkscape:window-height="678"
      inkscape:window-x="0"
      inkscape:window-y="0"
      inkscape:window-maximized="1"
@@ -466,10 +466,6 @@
      inkscape:groupmode="layer"
      id="layer1"
      transform="translate(0,-1092.653)">
-    <g
-       id="4"
-       inkscape:label="#g3842"
-       transform="translate(83.519822,-3.094691)" />
     <g
        id="active-center"
        transform="matrix(0.02211836,0,0,-0.02211825,-0.06534,1117.9954)">
@@ -519,7 +515,7 @@
          id="path4199"
          d="m 438.92025,-4.1046029 c 251.80615,0 455.93569,204.1260029 455.93569,455.9355829 0,251.80221 -204.12954,455.93172 -455.93569,455.93172 -251.80541,0 -455.935319,-204.12951 -455.935319,-455.93172 0,-251.80958 204.129909,-455.9355829 455.935319,-455.9355829"
          inkscape:connector-curvature="0"
-         class="ColorScheme-Background"
+         class="ColorScheme-ButtonBackground"
          fill="currentColor" />
     </g>
     <g
@@ -529,7 +525,7 @@
          id="path4199-3"
          d="m 408.52137,2.2704364 c 251.8062,0 455.9357,204.1259836 455.9357,455.9355936 0,251.8022 -204.1295,455.93172 -455.9357,455.93172 -251.8054,0 -455.935299,-204.12952 -455.935299,-455.93172 0,-251.80961 204.129899,-455.9355936 455.935299,-455.9355936"
          inkscape:connector-curvature="0"
-         class="ColorScheme-Background"
+         class="ColorScheme-ButtonBackground"
          fill="currentColor" />
     </g>
   </g>

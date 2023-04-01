@@ -6,7 +6,7 @@
    height="29.866667"
    id="svg4428"
    version="1.1"
-   inkscape:version="1.2.1 (9c6d41e410, 2022-07-14, custom)"
+   inkscape:version="1.2.2 (b0a8486541, 2022-12-01)"
    sodipodi:docname="close.svg"
    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
    xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
@@ -415,14 +415,14 @@
      inkscape:pageopacity="1"
      inkscape:pageshadow="2"
      inkscape:zoom="4.1539264"
-     inkscape:cx="56.572981"
-     inkscape:cy="13.360853"
+     inkscape:cx="73.304139"
+     inkscape:cy="13.601589"
      inkscape:document-units="px"
-     inkscape:current-layer="deactivated-center"
+     inkscape:current-layer="layer1"
      showgrid="false"
      inkscape:snap-bbox="true"
      inkscape:window-width="1366"
-     inkscape:window-height="742"
+     inkscape:window-height="678"
      inkscape:window-x="0"
      inkscape:window-y="0"
      inkscape:window-maximized="1"
@@ -532,7 +532,7 @@
          d="m 289.1262,8.2787733 c 251.80616,0 455.93572,204.1259967 455.93572,455.9355867 0,251.8022 -204.12956,455.93175 -455.93572,455.93175 -251.805422,0 -455.93529,-204.12955 -455.93529,-455.93175 0,-251.80959 204.129868,-455.9355867 455.93529,-455.9355867"
          inkscape:connector-curvature="0"
          fill="currentColor"
-         class="ColorScheme-Background" />
+         class="ColorScheme-ButtonBackground" />
     </g>
     <g
        id="deactivated-center"
@@ -542,11 +542,7 @@
          d="m 313.42064,8.2787733 c 251.80634,0 455.93588,204.1259867 455.93588,455.9355767 0,251.80222 -204.12954,455.93171 -455.93588,455.93171 -251.805206,0 -455.93512,-204.12949 -455.93512,-455.93171 0,-251.80959 204.129914,-455.9355767 455.93512,-455.9355767"
          inkscape:connector-curvature="0"
          fill="currentColor"
-         class="ColorScheme-Background" />
+         class="ColorScheme-ButtonBackground" />
     </g>
-    <g
-       id="4"
-       inkscape:label="#g3842"
-       transform="translate(86.4,-3.2)" />
   </g>
 </svg>

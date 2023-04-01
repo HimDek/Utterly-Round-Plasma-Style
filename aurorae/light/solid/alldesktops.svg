@@ -6,7 +6,7 @@
    height="29.866667"
    id="svg4428"
    version="1.1"
-   inkscape:version="1.2.1 (9c6d41e410, 2022-07-14, custom)"
+   inkscape:version="1.2.2 (b0a8486541, 2022-12-01)"
    sodipodi:docname="alldesktops.svg"
    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
    xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
@@ -352,29 +352,6 @@
          offset="1"
          style="stop-color:#dadad3;stop-opacity:1;" />
     </linearGradient>
-    <radialGradient
-       inkscape:collect="always"
-       xlink:href="#linearGradient4363-7"
-       id="radialGradient5329"
-       cx="-14.843177"
-       cy="1034.9207"
-       fx="-14.843177"
-       fy="1034.9207"
-       r="8.0063524"
-       gradientTransform="matrix(1,0,0,0.49292897,0.12127985,524.5964)"
-       gradientUnits="userSpaceOnUse" />
-    <filter
-       inkscape:collect="always"
-       id="filter5355"
-       x="-0.18540524"
-       width="1.370922"
-       y="-0.37919882"
-       height="1.7583976">
-      <feGaussianBlur
-         inkscape:collect="always"
-         stdDeviation="1.2065266"
-         id="feGaussianBlur5357" />
-    </filter>
     <style
        id="current-color-scheme">      .ColorScheme-Text {
         color:#31363b;
@@ -438,14 +415,14 @@
      inkscape:pageopacity="1"
      inkscape:pageshadow="2"
      inkscape:zoom="4.2786691"
-     inkscape:cx="53.170739"
-     inkscape:cy="10.867865"
+     inkscape:cx="24.189765"
+     inkscape:cy="11.101583"
      inkscape:document-units="px"
-     inkscape:current-layer="hover-center"
+     inkscape:current-layer="deactivated-center"
      showgrid="false"
      inkscape:snap-bbox="true"
      inkscape:window-width="1366"
-     inkscape:window-height="742"
+     inkscape:window-height="678"
      inkscape:window-x="0"
      inkscape:window-y="0"
      inkscape:window-maximized="1"
@@ -489,17 +466,6 @@
      inkscape:groupmode="layer"
      id="layer1"
      transform="translate(0,-1092.653)">
-    <g
-       id="4"
-       inkscape:label="#g3842"
-       transform="translate(86.4,-3.2)" />
-    <path
-       style="opacity:0;fill:url(#radialGradient5329);fill-opacity:1;stroke:#000000;stroke-width:0.1;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;filter:url(#filter5355)"
-       d="m -22.665748,1038.6229 h 15.8877044 c -0.3742772,-10.7481 -15.8936154,-9.9594 -15.8877044,0 z"
-       id="path3863"
-       inkscape:connector-curvature="0"
-       sodipodi:nodetypes="ccc"
-       transform="matrix(0.99862602,0,0,0.91748438,122.43674,158.27533)" />
     <g
        id="active-center"
        transform="matrix(0.02211836,0,0,-0.02211825,2.8148384,1117.8901)">
@@ -553,7 +519,7 @@
          d="m 406.44683,-0.25162337 c 251.80614,0 455.9357,204.12594337 455.9357,455.93560337 0,251.8022 -204.12956,455.9317 -455.9357,455.9317 -251.80541,0 -455.935322,-204.1295 -455.935322,-455.9317 0,-251.80966 204.129912,-455.93560337 455.935322,-455.93560337"
          inkscape:connector-curvature="0"
          fill="currentColor"
-         class="ColorScheme-Background" />
+         class="ColorScheme-ButtonBackground" />
     </g>
     <g
        id="deactivated-center"
@@ -563,7 +529,7 @@
          d="m 358.16954,-0.25162337 c 251.8062,0 455.9357,204.12594337 455.9357,455.93559337 0,251.8022 -204.1295,455.93172 -455.9357,455.93172 -251.8054,0 -455.935328,-204.12952 -455.935328,-455.93172 0,-251.80965 204.129928,-455.93559337 455.935328,-455.93559337"
          inkscape:connector-curvature="0"
          fill="currentColor"
-         class="ColorScheme-Background" />
+         class="ColorScheme-ButtonBackground" />
     </g>
   </g>
 </svg>
