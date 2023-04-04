@@ -5,7 +5,7 @@ intensity=0.4
 saturation=1.7
 
 [Desktop Entry]
-Comment=A rounded theme for Plasma 5 that follows all color scheme
+Comment=A solid rounded theme for Plasma 5 that follows all color scheme
 Name=Utterly-Round-Solid
 X-KDE-PluginInfo-Author=Himprakash Deka
 X-KDE-PluginInfo-Category=Plasma Theme
@@ -13,5 +13,5 @@ X-KDE-PluginInfo-Email=himprakashd@gmail.com
 X-KDE-PluginInfo-EnabledByDefault=true
 X-KDE-PluginInfo-License=GPL-2.0+
 X-KDE-PluginInfo-Name=Utterly-Round-Solid
-X-KDE-PluginInfo-Version=1.7
+X-KDE-PluginInfo-Version=2.0
 X-Plasma-API=5.0
