@@ -85,14 +85,14 @@ else
     exit 2
 fi
 
-if ! [[ $background =~ "^#([A-Fa-f0-9]{6}|[A-Fa-f0-9]{3})$" &&
-        $foreground =~ "^#([A-Fa-f0-9]{6}|[A-Fa-f0-9]{3})$" &&
-        $accent =~ "^#([A-Fa-f0-9]{6}|[A-Fa-f0-9]{3})$" &&
-        $negative =~ "^#([A-Fa-f0-9]{6}|[A-Fa-f0-9]{3})$" &&
-        $button =~ "^#([A-Fa-f0-9]{6}|[A-Fa-f0-9]{3})$" &&
-        $inactive =~ "^#([A-Fa-f0-9]{6}|[A-Fa-f0-9]{3})$" &&
-        $link =~ "^#([A-Fa-f0-9]{6}|[A-Fa-f0-9]{3})$" &&
-        $visitedlink =~ "^#([A-Fa-f0-9]{6}|[A-Fa-f0-9]{3})$" &&
+if ! [[ $background =~ ^#([A-Fa-f0-9]{6}|[A-Fa-f0-9]{3})$ &&
+        $foreground =~ ^#([A-Fa-f0-9]{6}|[A-Fa-f0-9]{3})$ &&
+        $accent =~ ^#([A-Fa-f0-9]{6}|[A-Fa-f0-9]{3})$ &&
+        $negative =~ ^#([A-Fa-f0-9]{6}|[A-Fa-f0-9]{3})$ &&
+        $button =~ ^#([A-Fa-f0-9]{6}|[A-Fa-f0-9]{3})$ &&
+        $inactive =~ ^#([A-Fa-f0-9]{6}|[A-Fa-f0-9]{3})$ &&
+        $link =~ ^#([A-Fa-f0-9]{6}|[A-Fa-f0-9]{3})$ &&
+        $visitedlink =~ ^#([A-Fa-f0-9]{6}|[A-Fa-f0-9]{3})$ &&
         -n "$name"
     ]] ; then
     echo error: $CONFIG is not a valid patchconfig. To get the syntax of a valid patchconfig, see the help message \(patch.sh -h\)
