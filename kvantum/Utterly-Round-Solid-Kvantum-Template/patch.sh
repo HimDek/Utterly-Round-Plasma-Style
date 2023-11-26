@@ -37,7 +37,7 @@ Usage:
     -h, --help
         show this help message
 
-    -t path, --config=path (default="./example.patchconfig")
+    -c path, --config=path (default="./example.patchconfig")
         path to patchconfig file
 
     -s path, --save=path (default="./patchedKvantum")
