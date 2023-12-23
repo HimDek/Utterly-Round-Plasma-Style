@@ -1,0 +1,18 @@
+{
+    "KPlugin": {
+        "Authors": [
+            {
+                "Email": "himprakashd@gmail.com",
+                "Name": "Himprakash Deka"
+            }
+        ],
+        "Category": "",
+        "Dependencies": [
+        ],
+        "EnabledByDefault": true,
+        "Id": "Utterly-Round-Dark",
+        "License": "GPL-2.0+",
+        "Name": "Utterly-Round-Dark",
+        "Version": "1.2"
+    }
+}

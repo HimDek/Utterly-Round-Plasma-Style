@@ -1,0 +1,17 @@
+{
+    "KPlugin": {
+        "Authors": [
+            {
+                "Email": "himprakashd@gmail.com",
+                "Name": "Himprakash Deka"
+            }
+        ],
+        "Category": "Plasma Theme",
+        "Description": "A solid rounded theme for Plasma 5 that follows all color scheme",
+        "EnabledByDefault": true,
+        "Id": "Utterly-Round-Solid",
+        "License": "GPL-2.0+",
+        "Name": "Utterly-Round-Solid",
+        "Version": "2.1"
+    }
+}
