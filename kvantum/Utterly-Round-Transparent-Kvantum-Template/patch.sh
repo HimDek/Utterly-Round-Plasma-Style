@@ -37,7 +37,7 @@ Usage:
     -h, --help
         show this help message
 
-    -t path, --config=path (default="./example.patchconfig")
+    -c path, --config=path (default="./example.patchconfig")
         path to patchconfig file
 
     -s path, --save=path (default="./patchedKvantum")
@@ -62,7 +62,7 @@ Patchconfig file syntax:
     author="Name of author to put in kvconfig"
     comment="This comment will be put in kvconfig"
     '
-    return
+    exit 0
 fi
 
 get_base_name() {
@@ -75,28 +75,28 @@ if [[ -f "$CONFIG" ]]; then
     . $CONFIG
 else
     echo error: $CONFIG is not a file
-    return 1
+    exit 1
 fi
 
 if [[ -f "$TEMPLATE/$templateName.info" &&  -f "$TEMPLATE/$templateName.svg" && -f "$TEMPLATE/$templateName.kvconfig" ]]; then
     . $TEMPLATE/$templateName.info
 else
     echo error: $TEMPLATE is not a valid template folder
-    return 2
+    exit 2
 fi
 
-if ! [[ $background =~ "^#([A-Fa-f0-9]{6}|[A-Fa-f0-9]{3})$" &&
-        $foreground =~ "^#([A-Fa-f0-9]{6}|[A-Fa-f0-9]{3})$" &&
-        $accent =~ "^#([A-Fa-f0-9]{6}|[A-Fa-f0-9]{3})$" &&
-        $negative =~ "^#([A-Fa-f0-9]{6}|[A-Fa-f0-9]{3})$" &&
-        $button =~ "^#([A-Fa-f0-9]{6}|[A-Fa-f0-9]{3})$" &&
-        $inactive =~ "^#([A-Fa-f0-9]{6}|[A-Fa-f0-9]{3})$" &&
-        $link =~ "^#([A-Fa-f0-9]{6}|[A-Fa-f0-9]{3})$" &&
-        $visitedlink =~ "^#([A-Fa-f0-9]{6}|[A-Fa-f0-9]{3})$" &&
+if ! [[ $background =~ ^#([A-Fa-f0-9]{6}|[A-Fa-f0-9]{3})$ &&
+        $foreground =~ ^#([A-Fa-f0-9]{6}|[A-Fa-f0-9]{3})$ &&
+        $accent =~ ^#([A-Fa-f0-9]{6}|[A-Fa-f0-9]{3})$ &&
+        $negative =~ ^#([A-Fa-f0-9]{6}|[A-Fa-f0-9]{3})$ &&
+        $button =~ ^#([A-Fa-f0-9]{6}|[A-Fa-f0-9]{3})$ &&
+        $inactive =~ ^#([A-Fa-f0-9]{6}|[A-Fa-f0-9]{3})$ &&
+        $link =~ ^#([A-Fa-f0-9]{6}|[A-Fa-f0-9]{3})$ &&
+        $visitedlink =~ ^#([A-Fa-f0-9]{6}|[A-Fa-f0-9]{3})$ &&
         -n "$name"
     ]] ; then
     echo error: $CONFIG is not a valid patchconfig. To get the syntax of a valid patchconfig, see the help message \(patch.sh -h\)
-    return 3
+    exit 3
 fi
 
 mkdir -p $SAVE/$finalName/
