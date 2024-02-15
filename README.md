@@ -1,6 +1,6 @@
 <p align="center">
  <a href="https://himdek.com/Utterly-Round-Plasma-Style/"><h1 align="center">Utterly Round Plasma Theme</h1></a>
- <p align="center">A rounded Desktop theme and Window borders for Plasma 5 that follows any color scheme</p>
+ <p align="center">A rounded Desktop theme and Window borders for Plasma that follows any color scheme</p>
 </p>
 
 <p class="buttons" align="center">
@@ -20,7 +20,7 @@
   <a href="#prerequisites"><img src="https://img.shields.io/badge/Install-green?style=for-the-badge" /></a>
 </p>
 
-A round cornered Desktop theme and Window borders for KDE Plasma 5 desktop environment that follows all color scheme with transparency and blur
+A round cornered Desktop theme and Window borders for KDE Plasma desktop environment that follows all color scheme with transparency and blur
 
 ## Key features:
 
@@ -32,7 +32,7 @@ A round cornered Desktop theme and Window borders for KDE Plasma 5 desktop envir
 ## Prerequisites:
 
 * Linux based Operating System
-* [KDE Plasma 5 Desktop Environment](https://kde.org/plasma-desktop/)
+* [KDE Plasma Desktop Environment](https://kde.org/plasma-desktop/)
 
 <h1 align="center">Get it from</h1>
 
