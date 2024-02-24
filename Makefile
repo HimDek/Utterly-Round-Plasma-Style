@@ -1,5 +1,8 @@
 all:
-	make aurorae-light aurorae-light-solid aurorae-dark aurorae-dark-solid desktoptheme desktoptheme-solid
+	make aurorae desktoptheme desktoptheme-solidau
+
+aurorae:
+	make aurorae-light aurorae-light-solid aurorae-dark aurorae-dark-solid
 
 aurorae-light: aurorae/light/translucent/*
 	tar -cJf Utterly-Round-Aurorae-Light.tar.xz aurorae/light/translucent/* --transform="s/aurorae\/light\/translucent\//Utterly-Round-Light\//"
