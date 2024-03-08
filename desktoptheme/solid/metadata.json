@@ -1,17 +1,23 @@
 {
+    "KPackageStructure": "Plasma/Theme",
     "KPlugin": {
         "Authors": [
             {
-                "Email": "himprakashd@gmail.com",
+                "Email": "info@himdek.com",
                 "Name": "Himprakash Deka"
             }
         ],
         "Category": "Plasma Theme",
-        "Description": "A solid rounded theme for Plasma 5 that follows all color scheme",
+        "ServiceTypes": [
+            "Plasma/Theme"
+        ],
         "EnabledByDefault": true,
-        "Id": "Utterly-Round-Solid",
-        "License": "GPL-2.0+",
         "Name": "Utterly-Round-Solid",
-        "Version": "2.1"
+        "Description": "A solid rounded theme for Plasma that follows all color scheme",
+        "Id": "Utterly-Round-Solid",
+        "Version": "2.1",
+        "License": "GPL-2.0+",
+        "X-KPackage-Dependencies": [
+        ]
     }
 }

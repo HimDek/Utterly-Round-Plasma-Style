@@ -1,17 +1,23 @@
 {
+    "KPackageStructure": "Plasma/Theme",
     "KPlugin": {
         "Authors": [
             {
-                "Email": "himprakashd@gmail.com",
+                "Email": "info@himdek.com",
                 "Name": "Himprakash Deka"
             }
         ],
         "Category": "Plasma Theme",
-        "Description": "A rounded theme for Plasma 5 with transparency and blur that follows all color scheme",
+        "ServiceTypes": [
+            "Plasma/Theme"
+        ],
         "EnabledByDefault": true,
-        "Id": "Utterly-Round",
+        "Name": "Utterly-Round-Solid",
+        "Description": "A rounded theme for Plasma with transparency and blur that follows all color scheme",
+        "Id": "Utterly-Round-Solid",
+        "Version": "2.1",
         "License": "GPL-2.0+",
-        "Name": "Utterly-Round",
-        "Version": "2.1"
+        "X-KPackage-Dependencies": [
+        ]
     }
 }

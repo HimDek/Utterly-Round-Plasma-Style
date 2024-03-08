@@ -1,5 +1,5 @@
 all:
-	make aurorae desktoptheme desktoptheme-solidau
+	make aurorae desktoptheme desktoptheme-solid
 
 aurorae:
 	make aurorae-light aurorae-light-solid aurorae-dark aurorae-dark-solid
