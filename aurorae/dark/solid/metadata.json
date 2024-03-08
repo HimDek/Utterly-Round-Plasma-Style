@@ -1,18 +1,23 @@
 {
+    "KPackageStructure": "KWin/Aurorae",
     "KPlugin": {
         "Authors": [
             {
-                "Email": "himprakashd@gmail.com",
+                "Email": "info@himdek.com",
                 "Name": "Himprakash Deka"
             }
         ],
-        "Category": "",
-        "Dependencies": [
+        "Category": "Plasma 6 Window Decorations",
+        "ServiceTypes": [
+            "KWin/Aurorae"
         ],
         "EnabledByDefault": true,
-        "Id": "Utterly-Round-Dark-Solid",
-        "License": "GPL-2.0+",
         "Name": "Utterly-Round-Dark-Solid",
-        "Version": "1.2"
+        "Description" : "MacOS inspired Round Dark Solid Window Decoration for Plasma 6",
+        "Id": "Utterly-Round-Dark-Solid",
+        "Version": "1.2",
+        "License": "GPL-2.0+",
+        "X-KPackage-Dependencies": [
+        ]
     }
 }
