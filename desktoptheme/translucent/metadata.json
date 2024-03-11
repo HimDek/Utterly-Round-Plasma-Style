@@ -12,12 +12,14 @@
             "Plasma/Theme"
         ],
         "EnabledByDefault": true,
-        "Name": "Utterly-Round-Solid",
+        "Name": "Utterly-Round",
         "Description": "A rounded theme for Plasma with transparency and blur that follows all color scheme",
-        "Id": "Utterly-Round-Solid",
+        "Id": "Utterly-Round",
         "Version": "2.1",
         "License": "GPL-2.0+",
         "X-KPackage-Dependencies": [
         ]
     }
 }
+
+
